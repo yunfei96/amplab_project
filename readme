@@ -1,0 +1,1 @@
+This repo is for indoor slaming project. It use a Widow Mine robot as the base and has imu and encoder for self position report. It use Kinect as a fake leaser sensor and using gmapping package to create map.
